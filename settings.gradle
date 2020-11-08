@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Brightness_Contro;_using _light_Sensor"
